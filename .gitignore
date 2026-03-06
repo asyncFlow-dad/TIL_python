@@ -8,4 +8,7 @@ TIL/ml/eda_basic_practice.ipynb
 __pycache__/
 .ipynb_checkpoints/
 *.csv
+!TIL/**/*.csv
 *.xlsx
+mlops/infra
+.venv/
