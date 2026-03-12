@@ -198,6 +198,22 @@ wheels = [
 ]
 
 [[package]]
+name = "bayesian-optimization"
+version = "3.2.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "colorama" },
+    { name = "numpy" },
+    { name = "packaging" },
+    { name = "scikit-learn" },
+    { name = "scipy" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/bf/19/c967c3d419ea054521d6e526b15f29cd2fd184f2ecc332fcda5dd797c448/bayesian_optimization-3.2.0.tar.gz", hash = "sha256:5d075bb0251846d5497b06b9ed03af033f1286f95873d4f04ce4fa3771de38fa", size = 32131, upload-time = "2025-12-27T09:44:16.017Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/d5/2a/4a9d31c685157d9bb82e1beee51e811dddd10d83cad3368630a9c1fd9e1a/bayesian_optimization-3.2.0-py3-none-any.whl", hash = "sha256:1c75d89c2350543ab6b993144d8afed2481ba3b92c220f429d1b6b9d1e100c84", size = 37273, upload-time = "2025-12-27T09:44:14.772Z" },
+]
+
+[[package]]
 name = "beautifulsoup4"
 version = "4.14.3"
 source = { registry = "https://pypi.org/simple" }
@@ -723,6 +739,7 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "alive-progress" },
+    { name = "bayesian-optimization" },
     { name = "beautifulsoup4" },
     { name = "category-encoders" },
     { name = "fastapi" },
@@ -776,6 +793,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "alive-progress", specifier = ">=3.3.0" },
+    { name = "bayesian-optimization", specifier = ">=3.2.0" },
     { name = "beautifulsoup4" },
     { name = "category-encoders", specifier = ">=2.9.0" },
     { name = "fastapi", specifier = ">=0.128.0" },
