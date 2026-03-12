@@ -22,6 +22,7 @@ dependencies = [
     "numpy",
     "opencv-python>=4.11.0.86",
     "openpyxl",
+    "optbinning>=0.21.0",
     "pandas",
     "pandas-stubs>=3.0.0.260204",
     "plotly>=6.5.1",
