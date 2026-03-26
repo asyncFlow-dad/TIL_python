@@ -9,6 +9,11 @@ on:
     - cron: "0 15 * * 0-4"
   workflow_dispatch: # 수동 실행도 가능하도록
 
+# GitHub Actions 러너에서 Node.js 20 기반 액션 경고를 줄이기 위해
+# Node.js 24로 조기 전환합니다.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 concurrency:
   group: update-readme-${{ github.ref }}
   cancel-in-progress: true
