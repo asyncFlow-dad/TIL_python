@@ -71,8 +71,9 @@ jobs:
           git add README.md
           git commit -m "자동 업데이트: 수강 일정 README 업데이트 [skip ci]"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          # README.md 외에 다른 파일이 수정되어 unstaged changes가 남는 경우가 있어
-          # pull --rebase 전에 작업 트리를 깨끗하게 정리합니다.
-          git restore --source=HEAD -- .
-          git pull --rebase origin main
+          # README만 커밋했어도(예: uv/sync, 러너) 다른 추적 파일이 더러워지면
+          # pull --rebase 가 거부됩니다. 커밋 직후 워킹트리를 HEAD와 완전히 맞춥니다.
+          git reset --hard HEAD
+          git fetch origin main
+          git rebase origin/main
           git push origin HEAD:main
