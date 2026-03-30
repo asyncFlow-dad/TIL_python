@@ -1,6 +1,6 @@
 # 수강 일정
 
-**업데이트 날짜**: 2026년 03월 30일
+**업데이트 날짜**: 2026년 03월 31일
 
 ## 전체 요약
 
@@ -13,7 +13,7 @@
 ## 진도율
 
 ```
-[████████░░░░░░░░░░░░] 44.6% (99/222일)
+[█████████░░░░░░░░░░░] 45.0% (100/222일)
 ```
 
 ## 월별 수강 내역
@@ -111,8 +111,8 @@
 | 2026년 03월 25일 (수) | Computer Vision Basic | Image classification task란? | 2:27:14 |
 | 2026년 03월 26일 (목) | Computer Vision Basic | Semantic segmentation이란? | 1:13:04 |
 | 2026년 03월 27일 (금) | Computer Vision Advanced | OT | 2:53:10 |
-| ✅ 2026년 03월 30일 (월) | Computer Vision Advanced | Object Detection Overview | 1:22:09 |
-| 2026년 03월 31일 (화) | Computer Vision Advanced | Neck | 1:50:53 |
+| 2026년 03월 30일 (월) | Computer Vision Advanced | Object Detection Overview | 1:22:09 |
+| ✅ 2026년 03월 31일 (화) | Computer Vision Advanced | Neck | 1:50:53 |
 
 </details>
 
