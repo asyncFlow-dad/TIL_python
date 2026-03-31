@@ -1,6 +1,6 @@
 # 수강 일정
 
-**업데이트 날짜**: 2026년 03월 31일
+**업데이트 날짜**: 2026년 04월 01일
 
 ## 전체 요약
 
@@ -13,7 +13,7 @@
 ## 진도율
 
 ```
-[█████████░░░░░░░░░░░] 45.0% (100/222일)
+[█████████░░░░░░░░░░░] 45.5% (101/222일)
 ```
 
 ## 월별 수강 내역
@@ -87,8 +87,8 @@
 
 </details>
 
-<details  open>
-<summary><b>2026년 03월 (현재)</b> - 21일, 수강 시간: 39:10:11</summary>
+<details>
+<summary><b>2026년 03월</b> - 21일, 수강 시간: 39:10:11</summary>
 
 | 수강 일자 | 파트명 | 클립명 | 일자별 수강 시간 |
 |-----------|--------|--------|----------------|
@@ -112,16 +112,16 @@
 | 2026년 03월 26일 (목) | Computer Vision Basic | Semantic segmentation이란? | 1:13:04 |
 | 2026년 03월 27일 (금) | Computer Vision Advanced | OT | 2:53:10 |
 | 2026년 03월 30일 (월) | Computer Vision Advanced | Object Detection Overview | 1:22:09 |
-| ✅ 2026년 03월 31일 (화) | Computer Vision Advanced | Neck | 1:50:53 |
+| 2026년 03월 31일 (화) | Computer Vision Advanced | Neck | 1:50:53 |
 
 </details>
 
-<details>
-<summary><b>2026년 04월</b> - 22일, 수강 시간: 30:01:51</summary>
+<details  open>
+<summary><b>2026년 04월 (현재)</b> - 22일, 수강 시간: 30:01:51</summary>
 
 | 수강 일자 | 파트명 | 클립명 | 일자별 수강 시간 |
 |-----------|--------|--------|----------------|
-| 2026년 04월 01일 (수) | Computer Vision Advanced | CNN-based Segmentation_U-Net | 1:25:51 |
+| ✅ 2026년 04월 01일 (수) | Computer Vision Advanced | CNN-based Segmentation_U-Net | 1:25:51 |
 | 2026년 04월 02일 (목) | Computer Vision Advanced | CV Trends | 1:50:32 |
 | 2026년 04월 03일 (금) | Part 7. VAE, GAN, Diffusion 생성모델 | Ch01-01. Vision 생성모델 Intro | 0:59:35 |
 | 2026년 04월 06일 (월) | Part 7. VAE, GAN, Diffusion 생성모델 | Ch02-01. GAN 개념 | 0:42:08 |
