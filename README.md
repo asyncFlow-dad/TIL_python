@@ -1,6 +1,6 @@
 # 수강 일정
 
-**업데이트 날짜**: 2026년 04월 07일
+**업데이트 날짜**: 2026년 04월 08일
 
 ## 전체 요약
 
@@ -13,7 +13,7 @@
 ## 진도율
 
 ```
-[█████████░░░░░░░░░░░] 48.2% (107/222일)
+[█████████░░░░░░░░░░░] 48.6% (108/222일)
 ```
 
 ## 월별 수강 내역
@@ -125,8 +125,8 @@
 | 2026년 04월 02일 (목) | Computer Vision Advanced | CV Trends | 1:50:32 |
 | 2026년 04월 03일 (금) | Part 7. VAE, GAN, Diffusion 생성모델 | Ch01-01. Vision 생성모델 Intro | 0:59:35 |
 | 2026년 04월 06일 (월) | Part 7. VAE, GAN, Diffusion 생성모델 | Ch02-01. GAN 개념 | 0:42:08 |
-| ✅ 2026년 04월 07일 (화) | Part 7. VAE, GAN, Diffusion 생성모델 | Ch02-05. GAN 기술 발전에 따른 다양한 모델과 기법 (3) VQ-GAN | 2:28:35 |
-| 2026년 04월 08일 (수) | Part 7. VAE, GAN, Diffusion 생성모델 | Ch03-03. DIffusion Model의 발전 (1) Controllability | 1:18:06 |
+| 2026년 04월 07일 (화) | Part 7. VAE, GAN, Diffusion 생성모델 | Ch02-05. GAN 기술 발전에 따른 다양한 모델과 기법 (3) VQ-GAN | 2:28:35 |
+| ✅ 2026년 04월 08일 (수) | Part 7. VAE, GAN, Diffusion 생성모델 | Ch03-03. DIffusion Model의 발전 (1) Controllability | 1:18:06 |
 | 2026년 04월 09일 (목) | Generation | OT | 0:43:39 |
 | 2026년 04월 10일 (금) | Generation | 생성 모델과 최대 가능도 추정 | 0:48:35 |
 | 2026년 04월 13일 (월) | Generation | 오토 인코더의 이해 | 1:51:42 |
