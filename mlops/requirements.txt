@@ -159,7 +159,7 @@ pydantic==2.12.5
 pydantic-core==2.41.5
 pydotplus==2.0.2
 pygame==2.6.1
-pygments==2.19.2
+pygments==2.20.0
 pykrx==1.0.51
 pyparsing==3.3.2
 pysnooper==1.2.3
