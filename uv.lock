@@ -1078,7 +1078,7 @@ dev = [
     { name = "black", specifier = ">=26.1.0" },
     { name = "ipykernel", specifier = ">=7.1.0" },
     { name = "isort", specifier = ">=8.0.0" },
-    { name = "nbconvert", specifier = ">=7.16.6" },
+    { name = "nbconvert", specifier = ">=7.17.1" },
     { name = "notebook", specifier = ">=7.0.0" },
     { name = "pysnooper", specifier = ">=1.2.3" },
 ]
