@@ -1,6 +1,6 @@
 # 수강 일정
 
-**업데이트 날짜**: 2026년 04월 22일
+**업데이트 날짜**: 2026년 04월 23일
 
 ## 전체 요약
 
@@ -13,7 +13,7 @@
 ## 진도율
 
 ```
-[██████████░░░░░░░░░░] 55.0% (122/222일)
+[███████████░░░░░░░░░] 55.4% (123/222일)
 ```
 
 ## 월별 수강 내역
@@ -136,8 +136,8 @@
 | 2026년 04월 17일 (금) | Natural Language Processing Basic | 텍스트 전처리란? | 2:04:34 |
 | 2026년 04월 20일 (월) | Natural Language Processing Basic | 규칙기반 및 통계기반 자연언어처리 | 0:48:21 |
 | 2026년 04월 21일 (화) | Natural Language Processing Basic | 딥러닝 기반 자연어처리 개괄 | 2:18:52 |
-| ✅ 2026년 04월 22일 (수) | Natural Language Processing Basic | 딥러닝 기반 자연언어처리 응용분야 소개 | 1:05:37 |
-| 2026년 04월 23일 (목) | Natural Language Processing Advanced | OT | 0:50:07 |
+| 2026년 04월 22일 (수) | Natural Language Processing Basic | 딥러닝 기반 자연언어처리 응용분야 소개 | 1:05:37 |
+| ✅ 2026년 04월 23일 (목) | Natural Language Processing Advanced | OT | 0:50:07 |
 | 2026년 04월 24일 (금) | Natural Language Processing Advanced | 자연어처리 Pipeline 이해하기 | 0:46:20 |
 | 2026년 04월 27일 (월) | Natural Language Processing Advanced | Transfer Learning이란 | 0:49:19 |
 | 2026년 04월 28일 (화) | Natural Language Processing Advanced | BPE 구현하기 | 1:24:20 |
