@@ -70,7 +70,7 @@ dev = [
     "black>=26.1.0",
     "ipykernel>=7.1.0",
     "isort>=8.0.0",
-    "nbconvert>=7.16.6",
+    "nbconvert>=7.17.1",
     "notebook>=7.0.0",
     "pysnooper>=1.2.3",
 ]
