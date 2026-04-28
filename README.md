@@ -1,6 +1,6 @@
 # 수강 일정
 
-**업데이트 날짜**: 2026년 04월 28일
+**업데이트 날짜**: 2026년 04월 29일
 
 ## 전체 요약
 
@@ -13,7 +13,7 @@
 ## 진도율
 
 ```
-[███████████░░░░░░░░░] 57.7% (128/222일)
+[███████████░░░░░░░░░] 58.1% (129/222일)
 ```
 
 ## 월별 수강 내역
@@ -140,8 +140,8 @@
 | 2026년 04월 23일 (목) | Natural Language Processing Advanced | OT | 0:50:07 |
 | 2026년 04월 24일 (금) | Natural Language Processing Advanced | 자연어처리 Pipeline 이해하기 | 0:46:20 |
 | 2026년 04월 27일 (월) | Natural Language Processing Advanced | Transfer Learning이란 | 0:49:19 |
-| ✅ 2026년 04월 28일 (화) | Natural Language Processing Advanced | BPE 구현하기 | 1:24:20 |
-| 2026년 04월 29일 (수) | Natural Language Processing Advanced | Decoder Model (GPT1) 이해하기 | 0:24:17 |
+| 2026년 04월 28일 (화) | Natural Language Processing Advanced | BPE 구현하기 | 1:24:20 |
+| ✅ 2026년 04월 29일 (수) | Natural Language Processing Advanced | Decoder Model (GPT1) 이해하기 | 0:24:17 |
 | 2026년 04월 30일 (목) | Natural Language Processing Advanced | GPT Generation 구현하기 | 1:02:46 |
 
 </details>
