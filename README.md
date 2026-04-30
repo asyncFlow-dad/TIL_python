@@ -1,6 +1,6 @@
 # 수강 일정
 
-**업데이트 날짜**: 2026년 04월 30일
+**업데이트 날짜**: 2026년 05월 01일
 
 ## 전체 요약
 
@@ -13,7 +13,7 @@
 ## 진도율
 
 ```
-[███████████░░░░░░░░░] 58.6% (130/222일)
+[███████████░░░░░░░░░] 59.0% (131/222일)
 ```
 
 ## 월별 수강 내역
@@ -116,8 +116,8 @@
 
 </details>
 
-<details  open>
-<summary><b>2026년 04월 (현재)</b> - 22일, 수강 시간: 30:01:51</summary>
+<details>
+<summary><b>2026년 04월</b> - 22일, 수강 시간: 30:01:51</summary>
 
 | 수강 일자 | 파트명 | 클립명 | 일자별 수강 시간 |
 |-----------|--------|--------|----------------|
@@ -142,16 +142,16 @@
 | 2026년 04월 27일 (월) | Natural Language Processing Advanced | Transfer Learning이란 | 0:49:19 |
 | 2026년 04월 28일 (화) | Natural Language Processing Advanced | BPE 구현하기 | 1:24:20 |
 | 2026년 04월 29일 (수) | Natural Language Processing Advanced | Decoder Model (GPT1) 이해하기 | 0:24:17 |
-| ✅ 2026년 04월 30일 (목) | Natural Language Processing Advanced | GPT Generation 구현하기 | 1:02:46 |
+| 2026년 04월 30일 (목) | Natural Language Processing Advanced | GPT Generation 구현하기 | 1:02:46 |
 
 </details>
 
-<details>
-<summary><b>2026년 05월</b> - 19일, 수강 시간: 15:05:15</summary>
+<details  open>
+<summary><b>2026년 05월 (현재)</b> - 19일, 수강 시간: 15:05:15</summary>
 
 | 수강 일자 | 파트명 | 클립명 | 일자별 수강 시간 |
 |-----------|--------|--------|----------------|
-| 2026년 05월 01일 (금) | Natural Language Processing Advanced | Encoder-Decoder Model (BART) 이해하기 | 0:48:25 |
+| ✅ 2026년 05월 01일 (금) | Natural Language Processing Advanced | Encoder-Decoder Model (BART) 이해하기 | 0:48:25 |
 | 2026년 05월 04일 (월) | Natural Language Processing Advanced | BERT 이후의 모델 이해하기 | 0:45:55 |
 | 2026년 05월 06일 (수) | Natural Language Processing Advanced | LLM 최신 트렌드 이해하기 | 0:39:28 |
 | 2026년 05월 07일 (목) | Natural Language Processing Advanced | 대회 전략 이해하기 | 0:42:28 |
